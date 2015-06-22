@@ -1,0 +1,3 @@
+[experiments]
+localhost  ansible_connection=local
+

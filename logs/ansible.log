@@ -1,0 +1,6 @@
+2015-06-22 11:09:37,746 p=31765 u=denis |  
+2015-06-22 11:09:37,746 p=31765 u=denis |  /usr/bin/ansible localhost -i inventory1 -m command -a uptime
+2015-06-22 11:09:37,746 p=31765 u=denis |  
+2015-06-22 11:09:37,839 p=31765 u=denis |  localhost | success | rc=0 >>
+ 11:09:37 up 2 days, 23:52,  2 users,  load average: 0,55, 0,36, 0,51
+

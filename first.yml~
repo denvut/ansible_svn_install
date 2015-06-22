@@ -1,0 +1,5 @@
+- hosts: localhost
+tasks:    
+       - apt: name=subversion  state=latest
+        sudo: true
+

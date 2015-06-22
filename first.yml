@@ -1,0 +1,8 @@
+- hosts: localhost
+  
+  tasks:
+ 
+
+    - name: svninstall
+      apt: name=subversion state=installed 
+      sudo_user: root
